@@ -6,6 +6,8 @@ User-facing documentation for [Benefit Decision Toolkit](https://github.com/Code
 
 This is an [Astro](https://docs.astro.build/en/getting-started/) project using the [Starlight](https://starlight.astro.build/getting-started/) template.
 
+The site is deployed to GitHub Pages at [https://earth-walker.github.io/bdt-docs/](https://earth-walker.github.io/bdt-docs/) whenever commits are pushed to the repo.
+
 For non-technical information, see the Google Doc in BDT Google Drive folder.
 
 ## Get Started
