@@ -4,7 +4,7 @@ User-facing documentation for Benefit Decision Toolkit, a Code For Philly projec
 
 ## About
 
-This is an Astro project using the Starlight template.
+This is an [Astro](https://docs.astro.build/en/getting-started/) project using the [Starlight](https://starlight.astro.build/getting-started/) template.
 
 For non-technical information, see the Google Doc in BDT Google Drive folder.
 
