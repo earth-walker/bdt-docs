@@ -8,23 +8,15 @@ export default defineConfig({
   base: "/bdt-docs",
   integrations: [
     starlight({
-      title: "My Docs",
-      logo: {
-        src: "./src/assets/my-logo.svg",
-        replacesTitle: true,
-      },
+      title: "BDT",
       social: [
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/withastro/starlight",
+          href: "https://github.com/CodeForPhilly/benefit-decision-toolkit",
         },
       ],
       sidebar: [
-        {
-          label: "Reference",
-          items: ["reference/example"],
-        },
         {
           label: "Category",
           items: ["category/test", "category/second-test"],
