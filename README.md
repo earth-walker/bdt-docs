@@ -1,6 +1,6 @@
 # BDT Docs
 
-User-facing documentation for Benefit Decision Toolkit, a Code For Philly project
+User-facing documentation for [Benefit Decision Toolkit](https://github.com/CodeForPhilly/benefit-decision-toolkit), a [Code For Philly](https://codeforphilly.org/) project
 
 ## About
 
