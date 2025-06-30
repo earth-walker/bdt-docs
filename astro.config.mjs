@@ -4,6 +4,8 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://earth-walker.github.io",
+  base: "/bdt-docs",
   integrations: [
     starlight({
       title: "My Docs",
