@@ -9,4 +9,4 @@ Here's a link to [the project on the Code For Philly website](https://codeforphi
 
 Here's an image:
 
-![A screenshot of a benefit screener](/src/assets/screenshot.png)
+![A screenshot of a benefit screener](../../../assets/screenshot.png)
