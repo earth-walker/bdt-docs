@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="98.047791mm"
+   height="43.376453mm"
+   viewBox="0 0 98.047791 43.376453"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-81.675348,-132.74165)">
+    <path
+       style="fill:#ffd42a;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path1"
+       d="m 104.4797,133.33949 6.87123,13.92263 15.36454,2.2326 -11.11789,10.83726 2.62458,15.30246 -13.74246,-7.22484 -13.742465,7.22484 2.624577,-15.30246 -11.117885,-10.83726 15.36454,-2.2326 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.05px;line-height:1;font-family:'Cooper*';-inkscape-font-specification:'Cooper* Ultra-Bold';font-variant-ligatures:no-common-ligatures;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffd42a;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="135.21489"
+       y="153.16129"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.05px;font-family:'Cooper*';-inkscape-font-specification:'Cooper* Ultra-Bold';stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="135.21489"
+         y="153.16129">good</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.05px;font-family:'Cooper*';-inkscape-font-specification:'Cooper* Ultra-Bold';stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="135.21489"
+         y="172.21129"
+         id="tspan2">job</tspan></text>
+  </g>
+</svg>
